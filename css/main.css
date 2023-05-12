@@ -1,3 +1,4 @@
+
 .inner {
     width: 900px;
     margin: 0 auto;
@@ -7,3 +8,21 @@ img {
     display: block;
     height: auto;
 }
+
+
+.subtitle{
+
+    padding: 2rem;
+    margin: 4rem 0;
+    font-size: 1.6rem;
+    text-align: center;
+    border-top: 1px dotted gray;
+    border-bottom: 1px dotted gray;
+}
+.sub{
+
+    
+        font-size: x-large;
+        font-family: fantasy;
+    }
+   
